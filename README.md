@@ -1,2 +1,4 @@
 # Blockchain-Demo-Attacks
-demonstrate how certain attacks effect blockchain
+Senior Project Testing Blockchain attacks on Remix
+
+
